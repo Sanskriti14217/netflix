@@ -1,0 +1,48 @@
+body{
+   background-color: black;
+}
+
+.header-logo{
+       height: 45px;
+       w
+
+ }
+
+ .flex-container-{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+ }
+
+ .flex-container-section1-heading{
+     text-align: center;
+      color: white
+      
+ }
+
+.flex-container-profile{
+      display:flex;
+      text-align: center;
+      justify-content: space-evenly;
+      
+}
+
+ .individual-profile-images{
+      height: 192px;
+      width: 190px;
+ }
+ 
+ .individual-profile-name{
+      color: white
+ }
+
+ .flex-container-section2-button{
+     margin-left: 650px;
+     background-color: #141414;
+     color: #dcdcdc;
+     border: 1px solid #dcdcdc;
+     font-size: 16px;
+     
+     
+ }
